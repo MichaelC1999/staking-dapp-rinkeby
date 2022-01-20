@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/staking-dapp-rinkeby/static/css/main.073c9b0a.css",
+    "main.js": "/staking-dapp-rinkeby/static/js/main.41a5f467.js",
+    "static/js/787.97fdb492.chunk.js": "/staking-dapp-rinkeby/static/js/787.97fdb492.chunk.js",
+    "index.html": "/staking-dapp-rinkeby/index.html",
+    "main.073c9b0a.css.map": "/staking-dapp-rinkeby/static/css/main.073c9b0a.css.map",
+    "main.41a5f467.js.map": "/staking-dapp-rinkeby/static/js/main.41a5f467.js.map",
+    "787.97fdb492.chunk.js.map": "/staking-dapp-rinkeby/static/js/787.97fdb492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.41a5f467.js"
+  ]
+}
