@@ -24,7 +24,7 @@ contract MichaelCoin is ERC20Standard {
     mapping (address => mapping (address => uint)) private __allowances;
 
     constructor() {
-        __balanceOf[0x79c9437Fc626346A18b8661B370e929d02FFb57b] = __totalSupply;
+        __balanceOf[msg.sender] = __totalSupply;
     }
 
     function totalSupply() public view override returns (uint _totalSupply) {

@@ -2,17 +2,8 @@ import './App.css';
 import React, {Component} from 'react';
 import { ethers } from 'ethers';
 import Web3Modal from 'web3modal';
-// import { Unit } from '@harmony-js/utils';
-// import { ChainID, ChainType } from '@harmony-js/utils';
-// import { HttpProvider, Messenger } from '@harmony-js/network';
-// import HDWalletProvider from '@truffle/hdwallet-provider';
-
-
-import {BankProtocolContractAddr, MichaelCoinAddr} from './contractAssets/config'
-
+import {BankProtocolContractAddr} from './contractAssets/config'
 import BankProtocol from './contractAssets/BankProtocol.json';
-import MichaelCoin from './contractAssets/MichaelCoin.json';
-// import { HarmonyExtension, Harmony } from '@harmony-js/core';
 
 class App extends Component {
 

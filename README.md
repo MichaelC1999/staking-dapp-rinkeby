@@ -1,4 +1,4 @@
-https://michaelc1999.github.io/staking-reward-token/
+https://michaelc1999.github.io/staking-dapp-rinkeby/
 
 "Bank Protocol" contract (RINKEBY TESTNET) - The contract which handles staking/unstaking ETH, calculating/sending reward tokens.
 <a href="https://rinkeby.etherscan.io/address/0x68e339E0d4F0F4CA94ccb42C4d44199A6543b51B">0x68e339E0d4F0F4CA94ccb42C4d44199A6543b51B<a>
