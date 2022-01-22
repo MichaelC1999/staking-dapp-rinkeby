@@ -1,6 +1,7 @@
 {
-  "name": "bank-protocol",
-  "homepage": "https://michaelc1999.github.io/staking-reward-token/",
+  "name": "Staking-Dapp",
+  "homepage": "https://michaelc1999.github.io/staking-dapp-rinkeby/",
+  "author": "Michael Manzano",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

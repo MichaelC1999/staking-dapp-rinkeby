@@ -11,7 +11,9 @@
 # production
 /build
 hardhat.config.js
-/src/contractAssets/Notes.txt
+/cache
+/artifacts
+
 
 # misc
 .DS_Store
